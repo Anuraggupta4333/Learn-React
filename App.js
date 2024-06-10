@@ -1,3 +1,5 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
 /**  
  * 
 // Creating a new HTML element of type 'h1'
@@ -65,7 +67,7 @@ const Parent = React.createElement(
         ]
     )]
 );
-console.log(Parent);
+// console.log(Parent);
 // Getting the root DOM node to mount the React application
 const root = ReactDOM.createRoot(document.getElementById("root"));
 

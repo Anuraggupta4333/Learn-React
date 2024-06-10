@@ -1,1 +1,8 @@
-/node_modules
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Parcel cache
+.parcel-cache/
