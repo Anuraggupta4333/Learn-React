@@ -1,0 +1,11 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "Learn About React",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Anurag",
+  "license": "ISC"
+}
